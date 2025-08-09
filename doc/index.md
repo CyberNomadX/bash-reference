@@ -7,7 +7,7 @@
 Welcome to the **Bash Reference**!  
 This site is a growing collection of Bash scripting tips, commands, and examples.
 
-### ⚠️ Disclaimer:  
+### Disclaimer:  
 I have not had a chance to fully test all of these commands. Please let me know if any need to be changed or corrected.
 
 ---
